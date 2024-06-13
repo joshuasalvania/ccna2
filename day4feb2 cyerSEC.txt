@@ -6,7 +6,7 @@ cmd
 ping 10.k.1.10
 
 c>nmap -sP 10.k.1.0/24    c>nmap -sP 10.k.100.0/24
-10.m.1.10?                   10.m.100.8
+10.72.1.10?                   10.72.100.8
 TASK2: How to begin hacking Layer 3:
 HOw get all the IP address of your victim:
 
