@@ -201,7 +201,7 @@ ephone-dn 8
 Ephone 1
   Mac-address b4e9.b0b1.715b
   type 8945
-  button 1:1 2:3 3:2 4:4
+  button 1:1 2:2 3:3 4:4
   restart
 Ephone 2
   Mac-address ccd8.c1fa.dd39
